@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">MyAndroid</string>
+    <string name="edit_message">Enter a message</string>
+    <string name="button_sened">Send</string>
+    <string name="search_hint">搜索朋友</string>
+    <string-array name="list_view_entry_array">
+        <item>jiangzhen</item>
+        <item>yuanguo</item>
+        <item>bocai</item>
+        <item>shen</item>
+    </string-array>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="fragment_friend">friend_fragment</string>
+    <string name="fragment_faxian">faxian_fragment</string>
+    <string name="fragment_me">me_fragment</string>
+    fragment_friend</resources>
